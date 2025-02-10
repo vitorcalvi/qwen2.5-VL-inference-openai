@@ -26,7 +26,7 @@ An OpenAI-compatible API server for the Qwen2.5-VL vision-language model, enabli
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qwen-vision.git
+git clone https://github.com/phildougherty/qwen2.5-VL-inference-openai.git
 cd qwen-vision
 ```
 
