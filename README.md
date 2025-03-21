@@ -1,5 +1,8 @@
 # Qwen2.5-VL API Server
 
+https://www.youtube.com/watch?v=Phq9poHINss&ab_channel=AICodeKing
+
+
 An OpenAI-compatible API server for the Qwen2.5-VL vision-language model, enabling multimodal conversations with image understanding capabilities.
 
 ## Features
